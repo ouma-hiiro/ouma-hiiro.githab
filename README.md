@@ -1,4 +1,3 @@
-# ouma-hiiro.githab
 <!DOCTYPE html>
 <html>
   <head>
