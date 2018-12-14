@@ -1,0 +1,30 @@
+.p{
+  font-size:px;
+
+}
+{
+  width: 1000px;
+  height: 80px;
+}
+body{
+  background-color:#cccccc;
+}
+h4{
+  color: #FF0000;
+}
+.footer{
+  background:#2E2EFE;
+  height:30px;
+}
+img{
+  width: auto;
+  height: auto;
+}
+.p1{
+  font-size: 16px;
+  color:#000000;
+}
+.p2{
+  font-size: 22px;
+  color: #2E2EFE;
+}
