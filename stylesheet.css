@@ -1,11 +1,4 @@
-.p{
-  font-size:px;
 
-}
-{
-  width: 1000px;
-  height: 80px;
-}
 body{
   background-color:#cccccc;
 }
@@ -27,4 +20,7 @@ img{
 .p2{
   font-size: 22px;
   color: #2E2EFE;
+}
+.p{
+  font-size: 12px
 }
