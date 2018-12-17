@@ -8,8 +8,7 @@
   <body>
     <h1 class="title"><center>†最強の竜騎士講座†</center></h1>
     <div class=p><center>～ouma-hiiroの流(竜）儀～</center></p>
-      <img src=https://cdn-ak.f.st-hatena.com/images/fotolife/o/ouma-hiiro/20181214/20181214164420.png>
-    <ul>
+        <ul>
       <a href="#link"><li>竜騎士というジョブについて</li></a>
       <a href="#link2"><li>最強竜騎士oumaのスキル回し</li></a>
       <a href="#link3"><li>竜騎士としての心構え</li></a>
