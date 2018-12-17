@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1 class="title"><center>†最強の竜騎士講座†</center></h1>
-    <div class=p><center>～ouma-hiiroの流(竜）儀～</center></p>
+    <p><center>～ouma-hiiroの流(竜）儀～</center></p>
     <ul>
       <a href="#link"><li>竜騎士というジョブについて</li></a>
       <a href="#link2"><li>最強竜騎士oumaのスキル回し</li></a>
